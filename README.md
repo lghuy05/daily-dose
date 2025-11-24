@@ -48,7 +48,7 @@
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/medsync.git
+git clone https://github.com/lghuy05/daily-dose.git
 
 # Install backend dependencies
 cd backend
