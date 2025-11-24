@@ -51,8 +51,7 @@
 git clone https://github.com/lghuy05/daily-dose.git
 
 # Install backend dependencies
-cd backend
-npm install
+//Backend is in my dailydose-backend repo 
 
 # Install frontend dependencies
 cd ../frontend
