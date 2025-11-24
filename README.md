@@ -3,11 +3,15 @@
 ![Project Banner](https://via.placeholder.com/1200x600/1e40af/FFFFFF?text=MedSync+AI+Prescription+Manager)
 *Intelligent prescription tracking with smart reminders and insightful analytics*
 
+[![Watch the video](https://img.youtube.com/vi/nG58YcTXeRo/maxresdefault.jpg)](https://youtu.be/nG58YcTXeRo)
+
+### [Watch this video on YouTube](https://youtu.be/nG58YcTXeRo)
+
 ## ✨ Features
 
-### 🤖 AI-Powered Prescription Parser
-- **Smart Text Recognition**: Automatically extracts medication details from prescription images
-- **Natural Language Processing**: Understands dosage, frequency, and instructions from text input
+### 🤖 AI-Powered Prescription Parser and Wellness analyzer
+- **Smart Text Recognition**: Automatically extracts medication details from prescription images and detect user feelings
+- **Natural Language Processing**: Understands dosage, frequency, feelings and instructions from text input
 - **Accuracy Validation**: Cross-references parsed data for reliability
 
 ### 📅 Smart Calendar Integration
